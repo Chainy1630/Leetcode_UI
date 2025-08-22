@@ -1,4 +1,4 @@
-# 📊 LeetMetric
+# 📊 LeetMetric - LeetCode_UI
 
 LeetMetric is a simple **LeetCode Stats Visualizer** built with **HTML, CSS, and JavaScript**.  
 It allows you to enter your LeetCode username and fetches your problem-solving statistics using the **LeetCode GraphQL API**, displaying them in an interactive and visually appealing way.
